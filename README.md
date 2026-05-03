@@ -9,10 +9,10 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Otávio Palhares Meira
+- Matricula: 1644049
+- Proposta de projeto escolhida: 
+- Breve descrição sobre seu projeto: 
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
