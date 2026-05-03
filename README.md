@@ -7,4 +7,4 @@
 
 ## Print da versão responsiva com Bootstrap [MOBILE] (*)
 
-<img src="url" alt="descrição" width="500">
+<img src="https://github.com/PucMinasComputacao/tarefa-viii-otaviopalhares/blob/otavio2/public/mobile.png?raw=true">
